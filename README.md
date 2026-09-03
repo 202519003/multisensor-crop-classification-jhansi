@@ -12,7 +12,7 @@ The study compares **Sentinel-1** (SAR), **Sentinel-2** (multispectral optical),
 
 Jhansi District lies in the Bundelkhand region of Uttar Pradesh (~25.45°N, 78.57°E), a semi-arid zone with a mix of irrigated and rain-fed farming. The dominant Rabi-season crops are Wheat, Mustard, Gram, and Field Pea, alongside Barren Land, Settlements, Open Forest, and Water as non-agricultural classes.
 
-![Jhansi District study area map](assets/study_area_map.jpg)
+![Jhansi District study area map](Assets/study_area_map.jpg)
 
 ## Objectives
 
