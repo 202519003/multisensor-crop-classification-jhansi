@@ -75,20 +75,20 @@ S1+S2 Temporal GTB achieved the highest Kappa (0.8443) and is the recommended co
 
 **Ground truth sample distribution** — 1,941 field-verified points across 8 classes, overlaid on Jhansi District:
 
-![Spatial distribution of ground truth samples across Jhansi District](Assets/ground_truth_distribution.png)
+![Spatial distribution of ground truth samples across Jhansi District](Assets/classification_map_1.png)
 
 **Classification maps** — best-performing algorithm per sensor, Rabi season 2023-24:
 
-![Sentinel-1 Temporal RF crop classification map](Assets/classification_map_s1_rf.png)
+![Sentinel-1 Temporal RF crop classification map](Assets/classification_map_2.png)
 *Sentinel-1 Temporal RF (OA 77.52%) — SAR-only classification, more misclassification noise between Wheat and Field Pea.*
 
-![Sentinel-2 Temporal RF crop classification map](Assets/classification_map_s2_rf.png)
+![Sentinel-2 Temporal RF crop classification map](Assets/classification_map_3.png)
 *Sentinel-2 Temporal RF (OA 85.00%) — sharper class boundaries from 10 m optical resolution.*
 
-![Sentinel-1 + Sentinel-2 fusion Temporal GTB crop classification map](Assets/classification_map_s1s2fusion_gtb.png)
+![Sentinel-1 + Sentinel-2 fusion Temporal GTB crop classification map](Assets/classification_map_4.png)
 *Sentinel-1 + Sentinel-2 fusion, Temporal GTB (OA 87.22%) — best overall map in the study; improved separation of Gram and Field Pea.*
 
-![Landsat-8 Temporal GTB crop classification map](Assets/classification_map_landsat8_gtb.png)
+![Landsat-8 Temporal GTB crop classification map](Assets/classification_map_5.png)
 *Landsat-8 Temporal GTB — coarser 30 m boundaries, more mixed-pixel noise at field edges than Sentinel-2.*
 
 ## Key Findings
